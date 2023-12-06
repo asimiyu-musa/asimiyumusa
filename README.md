@@ -1,6 +1,6 @@
-# Cloud Computing Predict
+# Asimiyu Musa's Project Repository
 
-#### EXPLORE Data Science Academy Cloud Computing Predict
+#### Project List
 ## Overview
 
 In this predict you will make use of Python and AWS to create an intelligent data science portfolio website. At a high-level, the website will be hosted in a serverless manner on AWS; showcasing your amazing data science, machine learning and AI projects. 
